@@ -1,4 +1,4 @@
-var name = 'zhufeng';
+const name = 'jack';
 function say() {
   console.log('hello', name);
 }
