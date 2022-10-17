@@ -1,3 +1,3 @@
-export const name = 'jack';
-nmae += 99
+export let name = 'jack';
+name += 99
 export const age = 88;

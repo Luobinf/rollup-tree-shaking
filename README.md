@@ -100,3 +100,9 @@ https://tehub.com/a/9YRKZFbzrE
 ### tree-shaking
 
 1. 完成最基本的 tree-shaking。
+
+
+## 步骤
+
+1. 在module里收集imports、exports和definitions
+2. 
