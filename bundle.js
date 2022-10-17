@@ -1,4 +1,4 @@
-import { name, age } from './msg';
+var name = 'zhufeng';
 function say() {
   console.log('hello', name);
 }
