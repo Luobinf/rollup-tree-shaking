@@ -101,7 +101,7 @@ https://tehub.com/a/9YRKZFbzrE
 
 1. 完成最基本的 tree-shaking。
 2. 支持块级作用域。
-3. 
+3. 变量冲突重命名（冲突了的分成一组并修改变量名字）
 
 ## 步骤
 
