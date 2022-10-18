@@ -1,10 +1,4 @@
-let name = 'jack';
-name += 99
-var title = 90 + name;
-let name = 'jack';
-name += 99
-function say() {
-  console.log('hello', name);
+if (true) {
+  var age = 12;
 }
-say();
-console.log(title)
+console.log(age);

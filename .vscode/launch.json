@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Launch Program",
             "program": "${workspaceFolder}/lib/debugger.js",
-            "runtimeExecutable": "/Users/didi/.nvm/versions/node/v14.17.0/bin/node"
+            "runtimeExecutable": "/Users/october/.nvm/versions/node/v14.20.1/bin/node"
         }
     ]
 }

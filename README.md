@@ -100,7 +100,8 @@ https://tehub.com/a/9YRKZFbzrE
 ### tree-shaking
 
 1. 完成最基本的 tree-shaking。
-
+2. 支持块级作用域。
+3. 
 
 ## 步骤
 

@@ -1,10 +1,16 @@
-import { name, age } from './msg';
+// import { name, age } from './msg';
 
-var title = 90 + name;
+// var title = 90 + name;
 
-function say() {
-  console.log('hello', name);
+// function say() {
+//   console.log('hello', name);
+// }
+
+// say();
+// console.log(title)
+
+var name = 'xxx';
+if (false) {
+  var age = 12;
 }
-
-say();
-console.log(title)
+console.log(age);
