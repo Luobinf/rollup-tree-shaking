@@ -107,3 +107,7 @@ https://tehub.com/a/9YRKZFbzrE
 
 1. 在module里收集imports、exports和definitions
 2. 
+
+rollup 变量名冲突是怎么解决的？
+
+首先找出相互冲突的变量，随后，从后往上进行重命名（最后一个冲突的不作改动），依次在变量的后面添加 $1、$2 等。
