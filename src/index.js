@@ -8,6 +8,13 @@
 // //     console.log(xx)
 // // }
 
+const MagicString = require('magic-string');
+
+const bundle = new MagicString.Bundle()
+
+console.log(bundle)
+
+
 
 
 
